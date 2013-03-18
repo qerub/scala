@@ -572,7 +572,7 @@ object Regex {
 
   }
 
-  /** Provides information about a succesful match.
+  /** Provides information about a successful match.
    */
   class Match(val source: CharSequence,
               private[matching] val matcher: Matcher,
